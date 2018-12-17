@@ -1,6 +1,6 @@
 # filler
 Filler
-## installation:
+## Installation:
 
 git clone https://github.com/AndreVero/filler
 make
