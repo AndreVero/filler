@@ -2,7 +2,7 @@
 Filler
 ## installation:
 
-git clone https://github.com/mikim42/Filler.git
+git clone https://github.com/AndreVero/filler
 make
 
 ## Usage:
