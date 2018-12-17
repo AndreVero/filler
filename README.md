@@ -1,14 +1,14 @@
 # filler
 Filler
-#installation:
+## installation:
 
 git clone https://github.com/mikim42/Filler.git
 make
 
-#Usage:
+## Usage:
 
 ./filler_vm -f <MAP_FILE> -p1 <PLAYER> -p2 <PLAYER>
 
-#Example:
+## Example:
 
 ./filler_vm -f resources/maps/map00 -p1 ./averemiy.filler -p2 resources/players/superjeannot.filler
